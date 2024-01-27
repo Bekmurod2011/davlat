@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.uzb {
+    display: none;
+}
+
+.uzb h3 {
+    font-size: 40px;
+}
+
+.uzb p {
+    font-size: 25px;
+}
+
+.rus {
+    display: none;
+}
+
+.rus h3 {
+    font-size: 40px;
+}
+
+.rus p {
+    font-size: 25px;
+}
+
+.eng {
+    display: none;
+}
+
+.eng h3 {
+    font-size: 40px;
+}
+
+.eng p {
+    font-size: 25px;
+}
+
+.kor {
+    display: none;
+}
+
+.kor h3 {
+    font-size: 40px;
+}
+
+.kor p {
+    font-size: 25px;
+}
